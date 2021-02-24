@@ -1,0 +1,3 @@
+﻿  mpi.cpp
+C:\Users\roman\Desktop\mp0\MPI\MPI\mpi.cpp(7,25): warning C4101: RecvRank: неиспользованная локальная переменная
+  MPI.vcxproj -> C:\Users\roman\Desktop\mp0\MPI\Debug\MPI.exe
